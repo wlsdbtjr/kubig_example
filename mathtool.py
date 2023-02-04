@@ -13,3 +13,5 @@ def add(a, b):
 def summinus(a, b):
     return a ** 2 - b ** 2
 
+def minussqure(a, b):
+    return a ** 2 - b ** 2
