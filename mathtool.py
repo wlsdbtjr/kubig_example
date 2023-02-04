@@ -9,3 +9,7 @@ def devide(a, b):
 
 def add(a, b):
     return a + b
+
+def summinus(a, b):
+    return a ** 2 - b ** 2
+
