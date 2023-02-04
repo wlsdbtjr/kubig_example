@@ -9,3 +9,6 @@ def devide(a, b):
 
 def add(a, b):
     return a + b
+
+def minussqure(a, b):
+    return a ** 2 - b ** 2
