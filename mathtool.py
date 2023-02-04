@@ -3,3 +3,6 @@ def squaresum(a, b):
 
 def cubesum(a, b):
     return a ** 3 + b ** 3
+
+def devide(a, b):
+    return a / b
